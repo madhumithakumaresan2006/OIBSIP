@@ -33,7 +33,26 @@ OIBSIP/
 └── WebDev-L1-LandingPage/
     ├── index.html
     ├── style.css
-    └── README.md
+    ├── README.md
+    ├── ss landing page full.png
+    ├── ss landing page features.png
+    └── ss landing page footer.png
+
+
+Screenshots
+
+Full Landing Page
+![NovaTech Landing Page](ss%20landing%20page%20full.png)
+
+
+
+Features Section
+![NovaTech Features Section](ss%20landing%20page%20features.png)
+
+
+
+Footer Section
+![NovaTech Footer Section](ss%20landing%20page%20footer.png)
 
 ## How to Run
 
