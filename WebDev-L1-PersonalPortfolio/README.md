@@ -9,6 +9,7 @@ The website introduces Madhumitha Kumaresan, showcases her skills and projects, 
 ## Technologies Used
 - HTML5
 - CSS3
+- Java Script
 
 ## Features
 - Introduction and profile photo
@@ -25,6 +26,7 @@ The website introduces Madhumitha Kumaresan, showcases her skills and projects, 
 WebDev-L1-PersonalPortfolio/
 ├── index.html
 ├── style.css
+├── script.js
 ├── madhu pic.jpeg
 ├── README.md
 └── screenshots/
