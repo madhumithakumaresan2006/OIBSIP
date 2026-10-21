@@ -35,7 +35,7 @@ WebDev-L1-PersonalPortfolio/
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](personal%20portfolio%20home.png)
+![Home Page](personalportfolio%20home.png)
 
 ### 👩‍💻 About Section
 ![About Section](personal%20portfolio%20about.png)
