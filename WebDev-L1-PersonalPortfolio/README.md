@@ -32,6 +32,17 @@ WebDev-L1-PersonalPortfolio/
 └── screenshots/
 ```
 
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](screenshots/personalportfoliohome.png)
+
+### 👩‍💻 About Section
+![About Section](screenshots/personalportfolioabout.png)
+
+### 🚀 Projects Section
+![Projects Section](screenshots/personalportfolioproject.png)
+
 ## How to View
 Open `index.html` in a browser to view the portfolio website.
 
