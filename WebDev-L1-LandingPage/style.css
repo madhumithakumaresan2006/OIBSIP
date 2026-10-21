@@ -1162,3 +1162,6 @@ h3 {
     transition-duration: 0.01ms !important;
   }
 }
+body {
+    background: red !important;
+}
