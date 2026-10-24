@@ -27,7 +27,7 @@ WebDev-L1-PersonalPortfolio/
 ├── index.html
 ├── style.css
 ├── script.js
-├── madhu pic.jpeg
+├── madhu avatar.jpg
 ├── README.md
 └── screenshots/
 ```
